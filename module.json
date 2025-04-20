@@ -1,0 +1,18 @@
+{
+  "id": "jml-fvtt-customizations",
+  "title": "Jalen's FVTT Customizations",
+  "description": "Jalen's Customizations for FoundryVTT",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "esmodules": ["module.js"],
+  "authors": [
+    {
+      "name": "Jalen",
+      "email": "jalen.michalslevy@gmail.com"
+    }
+  ]
+}
