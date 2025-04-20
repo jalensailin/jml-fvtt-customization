@@ -14,5 +14,7 @@
       "name": "Jalen",
       "email": "jalen.michalslevy@gmail.com"
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/jalensailin/jml-fvtt-customization/refs/heads/main/module.json",
+  "download": "https://github.com/jalensailin/jml-fvtt-customization/archive/refs/heads/main.zip"
 }
